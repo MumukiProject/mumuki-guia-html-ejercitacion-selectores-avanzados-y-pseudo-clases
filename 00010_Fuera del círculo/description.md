@@ -1,0 +1,1 @@
+> Seleccioná lo que no sea círculo y ponerle color de fondo rojo
