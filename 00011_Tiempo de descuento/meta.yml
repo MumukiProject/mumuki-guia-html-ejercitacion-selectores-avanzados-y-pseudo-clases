@@ -1,11 +1,11 @@
 ---
 locale: es
 tags: []
-layout: input_right
+layout: input_bottom
 editor: multiple_files
 type: problem
 extra_visible: false
 teacher_info: ''
 manual_evaluation: false
 choices: []
-name: Pares...
+name: Tiempo de descuento
