@@ -1,1 +1,0 @@
-> Seleccioná todos los párrafos hermanos partir del 2do párrafo y poneles color rojo

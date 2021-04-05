@@ -1,1 +1,0 @@
-> Seleccioná los `li` impares y poneles un color rojo
