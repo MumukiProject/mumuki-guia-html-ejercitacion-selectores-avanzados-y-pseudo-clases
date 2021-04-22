@@ -1,5 +1,5 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: 'css: p:last-child'
+  binding: css:p:last-child
   inspection: 'DeclaresStyle:color: red'
