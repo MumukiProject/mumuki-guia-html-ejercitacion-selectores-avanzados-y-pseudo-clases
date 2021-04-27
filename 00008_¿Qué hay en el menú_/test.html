@@ -1,4 +1,10 @@
 /*<output#*//*#output>*/
-/*<tests#*//*#tests>*/
+/*<tests#*/it ("los li que tengan el texto submenu tienen color rojo",() => {
+  document.querySelectorAll('li')[3].should.have.style("color", "rgb(255, 0, 0)")
+  document.querySelectorAll('li')[4].should.have.style("color", "rgb(255, 0, 0)")
+  document.querySelectorAll('li')[5].should.have.style("color", "rgb(255, 0, 0)")
+  document.querySelectorAll('li')[8].should.have.style("color", "rgb(255, 0, 0)")
+  document.querySelectorAll('li')[9].should.have.style("color", "rgb(255, 0, 0)")
+})/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
