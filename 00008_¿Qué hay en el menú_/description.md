@@ -1,1 +1,1 @@
-> Seleccioná los li que tienen el texto Submenu y poneles color rojo
+> Seleccioná los `li` que tienen el texto _Submenu_ y poneles color rojo.
