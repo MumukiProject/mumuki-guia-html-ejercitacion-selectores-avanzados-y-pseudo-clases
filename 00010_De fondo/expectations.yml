@@ -1,0 +1,5 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:div:not(.circulo)
+  inspection: DeclaresStyle:background-color:#FF0000
