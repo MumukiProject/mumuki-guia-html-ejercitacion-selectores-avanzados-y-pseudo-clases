@@ -1,1 +1,1 @@
-> Seleccioná el 3er párrafo y ponerle un color rojo
+> Seleccioná el 3er párrafo y ponele color rojo.
