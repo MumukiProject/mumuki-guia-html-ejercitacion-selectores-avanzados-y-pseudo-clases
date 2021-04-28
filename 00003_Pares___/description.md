@@ -1,1 +1,1 @@
-> Seleccioná los `li` pares y poneles un color rojo
+> Seleccioná los `li` pares y poneles un color rojo.

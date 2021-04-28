@@ -1,1 +1,1 @@
-> Seleccioná los `li` pares a partir del cuarto `li` y poneles color rojo
+> Seleccioná los `li` pares a partir del cuarto `li` y poneles color rojo.

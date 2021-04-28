@@ -1,1 +1,1 @@
-> Seleccioná todos los elementos y poneles un color rojo
+> Seleccioná todos los elementos y poneles color rojo.
