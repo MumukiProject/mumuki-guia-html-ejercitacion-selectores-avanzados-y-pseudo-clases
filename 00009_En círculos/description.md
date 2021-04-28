@@ -1,4 +1,6 @@
-* A los círculos pares ponerles un color de fondo rojo
-* A los círculos impares ponerles un color de fondo verde
-* Al primer círculo ponerle un color de fondo azul
-* Al último círculo ponerle un color de fondo amarillo
+> Seleccioná los circulos de forma tal que:
+
+* los círculos pares tengan un color de fondo rojo;
+* los círculos impares tengan un color de fondo verde;
+* el primer círculo tenga un color de fondo azul;
+* el último círculo tenga un color de fondo amarillo.
