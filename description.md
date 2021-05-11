@@ -1,1 +1,1 @@
-TODO
+Para determinar el estilo de algunos elementos de nuestro HTML trabajaremos con selectores y pseudo clases. :heart_eyes: 
